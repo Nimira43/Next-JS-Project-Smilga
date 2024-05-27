@@ -5,7 +5,7 @@ const HomePage = () => {
     <div>
       <h1 className="text-7xl">Home Page</h1>  
       <Link href='/about' className='text-2xl'>
-        About Page
+        About Page !
       </Link>
       {/* <Link href='/client' className='text-2xl'>
         Client Page
